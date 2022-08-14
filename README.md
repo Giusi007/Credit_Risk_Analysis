@@ -14,8 +14,8 @@ To complete this analysis, I used a total of six machine learning models in the 
 In this results section, I will share the balanced accuracy scores, precision, and recall scores of all six machine learning models used in this analysis.
 
 ### RandomOverSampler Model
-<br><img src="Screenshots/ROS_BAS"></img></br>
-<br><img src="Screenshots/ROS_CRI"></img></br>
+<br><img src="ROS_BAS"></img></br>
+<br><img src="ROS_CRI"></img></br>
 Balanced Accuracy Score: 64%
 High Risk has a precision of only 1% with 61% recall and a low F1 score of .02.
 Low risk has a high precision of 100%, recall of 66%, and a high F1 score of .8. This is due to the high number in the Low Risk population.
